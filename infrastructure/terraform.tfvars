@@ -1,0 +1,5 @@
+aws_profile       = "terraform-pucminas"
+aws_region        = "us-east-1"
+prefix            = "web"
+aws_instance_type = "t2.micro"
+aws_public_key    = "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQC6qy1huKcjNkhgLIDk4OW70IU/5wzkzk+jDbHhvScKrWrUz5MqAefRrPKyncrR7VHl20PGr1yfghU3fCMisaN2Sa7FbBlyoK65SeGd1cx1k9AO/IdAkLbkHaS4RjJyzQ/2nHdLBAfz+SuNTNWBNY8Q+f9bep+oWGB6KXXFoNq+v5Sxj0Cb5kwoxhNSEchSf/zg49vek88VG0KYOgHKZnoM69riRkhkodXfdfnYORrylp0Tfm6UnJ8pgZO6avo/LZdMylNxVBZMUs6OjIELd2gcsfSQSM9ufU8DLiHvEuy4zr/eGbaWrtgrQjQ87pMS8GGwWay32cb6zPBsdMG+X3pRcCpg659NtZP23adV9EXb6yeUS/qgM1uWU7/hui1QzIWy0a46J7JYUMZJ+YUDzKxLpXMc7UIMf2z5Ipyf84f9xfh0Bsoz0DlRFMvD+jfQ8jymXCcNCLJvcj+NHF9AZFf2UyUQYOitxqSz6/dchfqwcETmwvmMWWxZslmbc8sFTiM= rootsis@DESKTOP-A620CF5"
