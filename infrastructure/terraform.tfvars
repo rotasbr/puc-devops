@@ -1,5 +1,0 @@
-aws_profile       = "terraform-pucminas"
-aws_region        = "us-east-1"
-prefix            = "web"
-aws_instance_type = "t2.micro"
-aws_public_key    = "ssh-rsa xxxxxxx= rootsis@DESKTOP-A620CF5"
